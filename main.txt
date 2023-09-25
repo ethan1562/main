@@ -1,1 +1,1 @@
-:testttt|12345:Guatt|0000
+:testttt|12345
